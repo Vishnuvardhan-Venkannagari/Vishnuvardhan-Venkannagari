@@ -2,7 +2,7 @@
 
 # 👨‍💻 I am Vishnuvardhan Venkannagari | Software Engineer | AWS Certified Developer - Associate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-70876b32a-blue)](https://www.linkedin.com/in/vishnuvardhan-v-70876b32a) [![GitHub](https://img.shields.io/badge/GitHub-Vishnuvardhan--Venkannagari-black)](https://github.com/Vishnuvardhan-Venkannagari) [![Portfolio](https://img.shields.io/badge/Portfolio-Online-green)](https://portfolio.vsystech.net/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-70876b32a-blue)](https://www.linkedin.com/in/vishnuvardhan-venkannagari) [![GitHub](https://img.shields.io/badge/GitHub-Vishnuvardhan--Venkannagari-black)](https://github.com/Vishnuvardhan-Venkannagari) [![Portfolio](https://img.shields.io/badge/Portfolio-Online-green)](https://portfolio.vsystech.net/)  
 
 ---
 
@@ -84,7 +84,7 @@ This project has been an incredible learning experience, showcasing my skills in
 ## 🌐 Links & Contact:
 - **GitHub:** [Vishnuvardhan-Venkannagari](https://github.com/Vishnuvardhan-Venkannagari)  
 - **Portfolio:** [Vsystech Portfolio](https://portfolio.vsystech.net/)  
-- **LinkedIn:** [Vishnuvardhan Venkannagari](https://www.linkedin.com/in/vishnuvardhan-v-70876b32a)  
+- **LinkedIn:** [Vishnuvardhan Venkannagari](https://www.linkedin.com/in/vishnuvardhan-venkannagari)  
 - **Email:** venkannagarivishnureddy@gmail.com  
 - **Phone:** 309-222-0106  
 
