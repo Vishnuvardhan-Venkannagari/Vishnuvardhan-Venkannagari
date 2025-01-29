@@ -2,7 +2,7 @@
 
 # 👨‍💻 I am Vishnuvardhan Venkannagari | Software Engineer | AWS Certified Developer - Associate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/vishnuvardhan-venkannagari) [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/Vishnuvardhan-Venkannagari) [![Portfolio](https://img.shields.io/badge/Portfolio-Online-green)](https://portfolio.vsystech.net/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/vishnuvardhan-venkannagari) [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/Vishnuvardhan-Venkannagari) [![Portfolio](https://img.shields.io/badge/Portfolio-green)](https://portfolio.vsystech.net/)  
 
 ---
 
