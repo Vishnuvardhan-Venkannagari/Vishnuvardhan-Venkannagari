@@ -79,20 +79,6 @@ This project has been an incredible learning experience, showcasing my skills in
 
 ---
 
-### Capstone Project - Bradley University (Jan 2024 - May 2024)  
-- Applied data science models for **predictive analysis of injection molding setups**, improving production efficiency by 25%.  
-- Collaborated with a cross-functional team to optimize **performance metrics** using **Minitab** and statistical modeling.  
-
-### SocialSwag (May 2022 - Dec 2022)  
-- Developed a cutting-edge **Learning Management System (LMS)** platform, integrating **role-based access control**, **video streaming using AWS S3**, and **payment gateways**.  
-- Streamlined system scalability using **AWS Lambda**, handling 1,000+ monthly transactions and peak traffic.
-
-### IDAM for Steward App (FIFA World Cup 2022)  
-- Designed a secure **identity and access management solution** for thousands of users concurrently during the FIFA World Cup.  
-- Leveraged **Azure Functions** for serverless deployment and optimized backend response times.
-
----
-
 
 
 ## 🌐 Links & Contact:
