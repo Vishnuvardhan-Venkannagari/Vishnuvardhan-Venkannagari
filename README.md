@@ -7,7 +7,7 @@
 ---
 
 ## 💼 About Me
-A motivated and experienced **Software Engineer** with **3+ years of expertise** in designing, developing, and deploying scalable applications, integrating **secure APIs**, and leveraging **cloud services like AWS and Azure**. My background in **full-stack development**, **data engineering**, and **automation using CI/CD pipelines** has enabled me to deliver optimized solutions for major clients, including **Amazon**. Promoted for high-impact contributions and performance improvements, I bring value through collaboration and innovative problem-solving.
+A motivated and experienced **Software Engineer** with **2+ years of expertise** in designing, developing, and deploying scalable applications, integrating **secure APIs**, and leveraging **cloud services like AWS and Azure**. My background in **full-stack development**, **data engineering**, and **automation using CI/CD pipelines** has enabled me to deliver optimized solutions for major clients, including **Amazon**. Promoted for high-impact contributions and performance improvements, I bring value through collaboration and innovative problem-solving.
 
 ---
 
