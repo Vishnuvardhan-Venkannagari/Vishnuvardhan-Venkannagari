@@ -44,7 +44,7 @@ A motivated and experienced **Software Engineer** with **2+ years of expertise**
 - Orchestrated serverless deployments with **AWS Lambda**, enhancing scalability by 30%.  
 - Collaborated with clients to build tailored solutions, reducing **time-to-market** by 25%.
 
-### **Junior Software Engineer** | RP Webapps Pvt Ltd - Hyderabad, India (Jan 2020 - Oct 2021)  
+### **Junior Software Engineer** | RP Webapps Pvt Ltd - Hyderabad, India (April 2021 - Oct 2021)  
 - Developed and documented REST APIs and microservices using **Python frameworks** like **Flask** and **FastAPI**.  
 - Enhanced large-scale data handling using **pandas** and optimized queries in **MySQL**.  
 - Integrated **third-party cloud services** and automated tasks with cron jobs, ensuring efficient daily operations.
