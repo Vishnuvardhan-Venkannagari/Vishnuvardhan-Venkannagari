@@ -20,7 +20,7 @@ A motivated and experienced **Software Engineer** with **2+ years of expertise**
 ### ☁️ Cloud & DevOps
 - **AWS:** Lambda, S3, ECS, EKS, IAM, RDS, API Gateway, Cognito  
 - **Azure:** AD B2C, Functions, Blob Storage  
-- **Infrastructure as Code:** **Terraform**  
+- **Infrastructure as Code:** Terraform
 - **CI/CD Tools:** GitHub Actions, Jenkins, Docker, Kubernetes  
 
 ### 🖥️ Frontend Development
