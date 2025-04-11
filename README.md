@@ -18,36 +18,46 @@ A motivated and experienced **Software Engineer** with **2+ years of expertise**
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, Elasticsearch, Redis  
 
 ### ☁️ Cloud & DevOps
-- **AWS:** Lambda, S3, ECS, EKS, IAM, RDS, API Gateway  
+- **AWS:** Lambda, S3, ECS, EKS, IAM, RDS, API Gateway, Cognito  
 - **Azure:** AD B2C, Functions, Blob Storage  
+- **Infrastructure as Code:** **Terraform**  
 - **CI/CD Tools:** GitHub Actions, Jenkins, Docker, Kubernetes  
 
 ### 🖥️ Frontend Development
-- **Frameworks:** React.js, Bootstrap  
+- **Frameworks:** React.js, Bootstrap, Angular  
 - **UX/UI Optimization:** HTML5, CSS3, Responsive Design  
 
 ### 🧪 Testing & Security
 - **Testing Tools:** Pytest, Selenium, Unittest  
 - **Vulnerability Assessments:** OWASP, secure API integrations  
-- **Code Quality & Review:** Static code analysis and optimized database interactions  
-
+- **Code Quality & Review:** Static code analysis and optimized database interactions
+  
 ---
 ## 🏢 Work Experience:
 
-### **Software Engineer Intern** | Treevah LLC - Chicago, USA (Dec 2024 - Present)  
-- Developed React-based components for file management systems, integrating AI-driven workflows and secure user management.  
-- Built a backend framework with **Node.js (Express)** and **PostgreSQL**.  
-- Integrated **Azure B2C** for authentication and session handling.
+### **Software Engineer** | SOTAOG LLC - Houston, Texas, USA (Feb 2025 - Present)  
+- Designed and deployed AWS infrastructure using **Terraform**, configuring VPC, EC2, S3, IAM, Route Tables, and CloudWatch monitoring.
+- Integrated **AWS Cognito** with CloudWatch for failed login monitoring and Lambda-based user deactivation, enhancing system security.
+- Built **FastAPI** backend services secured with **Nginx** and SSL, supporting real-time execution of PARETO Operational and Strategic models.
+- Developed an **Angular-based frontend** with Cognito login, role-based access control, and session management.
+- Configured **AWS SES** for secured email services, applied **CloudFront & WAF** for IP whitelisting and web traffic protection.
+
+### **Software Engineer Intern** | Treevah LLC - Chicago, Illinois, USA (Dec 2024 - Jan 2025)  
+- Built a React-based File Management System with AI-driven features and Azure B2C integration for secure authentication.
+- Developed a backend using **Node.js (Express)** and **PostgreSQL**, following MVC for maintainability and scaling.
+- Integrated **Azure Blob Storage** for secure, efficient file storage with lifecycle management and session-based access.
+- Enhanced API performance and implemented robust file handling pipelines, improving response times and maintainability.
 
 ### **Software Engineer** | Hashinclude Computech Pvt Ltd - Bangalore, India (Nov 2021 - Dec 2022)  
-- Led the development of Python applications using **Flask** and **FastAPI**, managing complete project life cycles.  
-- Orchestrated serverless deployments with **AWS Lambda**, enhancing scalability by 30%.  
-- Collaborated with clients to build tailored solutions, reducing **time-to-market** by 25%.
+- Led development of Python applications using Flask and FastAPI, managing full project life cycles for ITP and SocialSwag platforms.
+- Used **AWS Lambda** for serverless deployments, improving scalability by 30%.
+- Built and integrated **REST APIs** for role-based access, streaming, and transactions using **Elasticsearch, Redis, RabbitMQ**.
+- Collaborated on frontend components using **React.js**, and orchestrated CI/CD pipelines using GitHub Actions and Jenkins.
 
 ### **Junior Software Engineer** | RP Webapps Pvt Ltd - Hyderabad, India (April 2021 - Oct 2021)  
-- Developed and documented REST APIs and microservices using **Python frameworks** like **Flask** and **FastAPI**.  
-- Enhanced large-scale data handling using **pandas** and optimized queries in **MySQL**.  
-- Integrated **third-party cloud services** and automated tasks with cron jobs, ensuring efficient daily operations.
+- Built and documented backend services using **Flask**, **FastAPI**, and **Pytest**.
+- Handled large datasets with **pandas** and optimized MySQL queries for real-time analytics.
+- Scheduled **cron jobs** for daily automated API triggers and integrated cloud services for external clients.
 
 ---
 
