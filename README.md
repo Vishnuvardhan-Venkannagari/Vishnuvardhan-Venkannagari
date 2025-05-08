@@ -7,7 +7,7 @@
 ---
 
 ## 💼 About Me
-A motivated and experienced **Software Engineer** with **4+ years of expertise** in designing, developing, and deploying scalable applications, integrating **secure APIs**, and leveraging **cloud services like AWS and Azure**. My background in **full-stack development**, **data engineering**, and **automation using CI/CD pipelines** has enabled me to deliver optimized solutions for major clients, including **Amazon**. Promoted for high-impact contributions and performance improvements, I bring value through collaboration and innovative problem-solving.
+A motivated and experienced **Software Engineer** with **2+ years of expertise** in designing, developing, and deploying scalable applications, integrating **secure APIs**, and leveraging **cloud services like AWS and Azure**. My background in **full-stack development**, **data engineering**, and **automation using CI/CD pipelines** has enabled me to deliver optimized solutions for major clients, including **Amazon**. Promoted for high-impact contributions and performance improvements, I bring value through collaboration and innovative problem-solving.
 
 ---
 
@@ -35,7 +35,7 @@ A motivated and experienced **Software Engineer** with **4+ years of expertise**
 ---
 ## 🏢 Work Experience:
 
-### **Software Engineer** | SOTAOG LLC - Houston, Texas, USA (Feb 2025 - Apr 2025)  
+### **Software Engineer** | SOTAOG LLC - Houston, Texas, USA (Feb 2025 - May 2025)  
 - Designed and deployed AWS infrastructure using **Terraform**, configuring VPC, EC2, S3, IAM, Route Tables, and CloudWatch monitoring.
 - Integrated **AWS Cognito** with CloudWatch for failed login monitoring and Lambda-based user deactivation, enhancing system security.
 - Built **FastAPI** backend services secured with **Nginx** and SSL, supporting real-time execution of PARETO Operational and Strategic models.
@@ -64,7 +64,7 @@ A motivated and experienced **Software Engineer** with **4+ years of expertise**
 ## 📜 Certifications & Achievements:
 - **AWS Certified Developer - Associate (Sept 2024)**  
 - **5-Day Gen AI Intensive, Kaggle (Nov 2024)**  
-- **Python & Django - Digital Nest Hyderabad (2019)**  
+- **Python & Django - Digital Nest Hyderabad (2021)**  
 
 ---
 ## 🚀 Notable Projects:
