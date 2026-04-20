@@ -18,7 +18,8 @@ A motivated and experienced **Software Engineer** with **2+ years of expertise**
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, Elasticsearch, Redis  
 
 ### ☁️ Cloud & DevOps
-- **AWS:** Lambda, S3, ECS, EKS, IAM, RDS, API Gateway, Cognito  
+- **AWS:** Lambda, S3, ECS, EKS, IAM, RDS, API Gateway, Cognito
+- **GCP:** VM, BigQuery, Cloud Task, Cloud Job, Cloud Function  
 - **Azure:** AD B2C, Functions, Blob Storage  
 - **Infrastructure as Code:** Terraform
 - **CI/CD Tools:** GitHub Actions, Jenkins, Docker, Kubernetes  
@@ -34,6 +35,16 @@ A motivated and experienced **Software Engineer** with **2+ years of expertise**
   
 ---
 ## 🏢 Work Experience:
+
+### **Software Engineer** | SkillsBridge.AI - Princeton, New Jersey, USA (Feb 2025 - May 2025)  
+- Architected the end-to-end People + AI Collaboration (PAIC) platform, building a scalable pipeline for JD parsing, microtask extraction, embedding generation, UMAP-based clustering, and AI agent synthesis.
+- Engineered an AI impact modeling engine using weighted effort-point ratios and AI percentage rebasing, eliminating cross-role aggregation errors and improving automation accuracy.
+- Designed a multi-tenant BigQuery data model for projects, runs, embeddings, clustering outputs, and agent artifacts with run-level isolation and retry-safe execution.
+- Built backend services using Python (Flask) with JWT-based organization scoping and RBAC, enabling secure multi-tenant access and workflow control.
+- Implemented asynchronous pipelines using Celery to handle long-running clustering and AI processing tasks with fault tolerance and retry mechanisms.
+- Developed embedding and clustering workflows using UMAP and cosine similarity, tuning similarity thresholds to improve agent grouping precision and ROI outcomes.
+- Built React-based frontend features including publish/unpublish workflows, JD ownership transfer, and dynamic state-driven UI integrated with PAIC APIs.
+- Integrated Gemini 2.5 Flash to generate AI agent artifacts such as JDs, PRDs, PAIC documentation, and role redesign outputs at scale.
 
 ### **Software Engineer** | SOTAOG LLC - Houston, Texas, USA (Feb 2025 - May 2025)  
 - Designed and deployed AWS infrastructure using **Terraform**, configuring VPC, EC2, S3, IAM, Route Tables, and CloudWatch monitoring.
