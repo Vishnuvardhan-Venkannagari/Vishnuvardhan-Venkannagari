@@ -36,7 +36,7 @@ A motivated and experienced **Software Engineer** with **2+ years of expertise**
 ---
 ## 🏢 Work Experience:
 
-### **Software Engineer** | SkillsBridge.AI - Princeton, New Jersey, USA (Feb 2025 - May 2025)  
+### **Software Engineer** | SkillsBridge.AI - Princeton, New Jersey, USA (Nov 25 - Present)  
 - Architected the end-to-end People + AI Collaboration (PAIC) platform, building a scalable pipeline for JD parsing, microtask extraction, embedding generation, UMAP-based clustering, and AI agent synthesis.
 - Engineered an AI impact modeling engine using weighted effort-point ratios and AI percentage rebasing, eliminating cross-role aggregation errors and improving automation accuracy.
 - Designed a multi-tenant BigQuery data model for projects, runs, embeddings, clustering outputs, and agent artifacts with run-level isolation and retry-safe execution.
